@@ -3,8 +3,8 @@ Github repo for MSDS 7331 Group #3 Lab Assignments
 
 # Lab Assignment #1
 
-## Shanqing Gu: using OnlineNews_Gu_v1_0909.ipynb notebook
-Performed exploratory data analysis by creating a pandas dataframe, looking at statistics summary, along with several cluster and heatmaps to look into correlations
+## Shanqing Gu: using OnlineNews_Gu_v4_LS.ipynb notebook
+Performed exploratory data analysis by creating a pandas dataframe, looking at statistics summary, linear regression with most variables along with several cluster and heatmaps to look into correlations
 
 ## Manisha Pednekar: using NewsPopCode_manisha.ipynb notebook.
 Printed correlation matrix of all variables. Completed the data understanding and verify data quality sections.
